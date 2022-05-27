@@ -1,0 +1,22 @@
+{
+  "name": "ServoK210",
+  "keywords": "servo, k210",
+  "description": "Generate RC servo signal on a selected pins with K210 device and Arduino framework.",
+  "homepage": "https://github.com/openblockcc/ServoK210/",
+  "license": "MIT",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/openblockcc/ServoK210.git"
+  },
+  "authors":
+  {
+      "name": "ArthurZheng",
+      "email": "arthurzheng@openblock.cc",
+      "url": "http://www.openblock.cc",
+      "maintainer": true
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "Maixduino(k210)"
+}

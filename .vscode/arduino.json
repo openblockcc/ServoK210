@@ -1,0 +1,6 @@
+{
+    "configuration": "toolsloc=default,clksrc=400,burn_baudrate=2000000,burn_tool_firmware=dan",
+    "board": "Maixduino:k210:m1",
+    "sketch": "examples\\02-MultipleServos\\02-MultipleServos.ino",
+    "port": "COM7"
+}
